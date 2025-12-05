@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrsortz
 - 👀 I’m interested in gaming, watching movies, sports and coding
-- 🌱 I’m currently learning software testing
+- 🌱 I’m currently learning Software Testing, C# Programming Language and etc.
 - 📫 How to reach me: christianortiz.dave@gmail.com
 - ⚡ Fun fact: coding is fun :>
 
